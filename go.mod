@@ -1,4 +1,4 @@
-module github.com/mtickets-limited/logger
+module github.com/Mtickets-Limited/logger
 
 go 1.17
 
